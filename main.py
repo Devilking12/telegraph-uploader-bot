@@ -26,7 +26,7 @@ INLINE_SELECT = InlineKeyboardMarkup(
             InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
         ],
         [
-            InlineKeyboardButton("Join Channel🌐", url="https://t.me/telsabots")
+            InlineKeyboardButton("Join Channel🌐", url="https://t.me/devilkingbots")
         ]
     ]
 )
