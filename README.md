@@ -7,14 +7,14 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/sanila2007/telegraph-uploader-bot?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/sanila2007/telegraph-uploader-bot?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/sanila2007/telegraph-uploader-bot?style=for-the-badge" alt="Watchers"> 
+    <img src="https://img.shields.io/github/stars/Devilking12/telegraph-uploader-bot?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/Devilking12/telegraph-uploader-bot?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/Devilking12/telegraph-uploader-bot?style=for-the-badge" alt="Watchers"> 
 <br>
-    <img src="https://img.shields.io/github/license/sanila2007/telegraph-uploader-bot?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/github/repo-size/sanila2007/telegraph-uploader-bot?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/sanila2007/telegraph-uploader-bot?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/sanila2007/telegraph-uploader-bot?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/Devilking12/telegraph-uploader-bot?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/repo-size/Devilking12/telegraph-uploader-bot?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/Devilking12/telegraph-uploader-bot?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/Devilking12/telegraph-uploader-bot?style=for-the-badge" alt="Issues">
 </p>  
 
 
@@ -35,7 +35,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanila2007/telegraph-uploader-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devilking12/telegraph-uploader-bot)
  
 ## Warning
  ● This is under <b>GNU General Public License v3.0.</b><br><br>
@@ -44,7 +44,7 @@
 ```
 ## Credits
  
--[telegraph-uploader-bot] (https://github.com/sanila2007/telegraph-uploader-bot)
+-[telegraph-uploader-bot] (https://github.com/Devilking12/telegraph-uploader-bot)
 
 ```
 
@@ -55,10 +55,10 @@ So don't tag admins for errors of your deploy/code,
 If any errors you should fix it yourself!!</pre>
 
 ## Credits: <br>
- • <a href="https://github.com/sanila2007">Sanila Ranatunga</a> <br>
+ • <a href="https://github.com/Devilking12">Mr Bhumihar</a> <br>
  • <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a> 
   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sanila2007/feedback-bot)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Devilking12/LivegramBot)   
 
-> Made with 💞 by <a href="https://github.com/sanila2007">@sanila2007</a> 
+> Made with 💞 by <a href="https://github.com/Devilking12">@Devilking12</a> 
    
