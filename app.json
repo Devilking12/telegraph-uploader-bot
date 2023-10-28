@@ -19,12 +19,12 @@
         },
         "API_HASH": {
             "description": "Get from my.telegram.org/apps",
-            "value": "27613077",
+            "value": "19dccde5b307a489ec9ded3a8a558e34",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Get from Telegram's @BotFather",
-            "value": "27613077",
+            "value": "6667330465:AAE2CqSX_B2bKvrttT89ZSwKleCHoMe8vzg",
             "required": true
         }
     },
