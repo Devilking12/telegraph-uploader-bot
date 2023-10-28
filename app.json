@@ -29,7 +29,7 @@
         }
     },
     "formation": {
-    "worker": {"Eco"
+    "worker": { ("Eco")
       "quantity": 1,
       "size": "free"
     }
