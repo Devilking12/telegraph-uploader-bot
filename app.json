@@ -14,14 +14,17 @@
       "env": {
         "API_ID": {
             "description": "Get from my.telegram.org/apps",
+            "value": "27613077",
             "required": true
         },
         "API_HASH": {
             "description": "Get from my.telegram.org/apps",
+            "value": "27613077",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Get from Telegram's @BotFather",
+            "value": "27613077",
             "required": true
         }
     },
