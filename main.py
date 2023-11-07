@@ -68,7 +68,7 @@ async def photo_upload(bot, message):
         IN_BUTTON = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Github🤩", url="https://github.com/Devilking12"),
+                    InlineKeyboardButton("Devil XD", url="https://t.me/Assaulted_dark"),
                     InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
                 ],
                 [
@@ -103,7 +103,7 @@ async def video_upload(bot, message):
         IN_BUTTON = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Github🤩", url="https://github.com/Devilking12"),
+                    InlineKeyboardButton("Devil XD", url="https://t.me/Assaulted_dark"),
                     InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
                 ],
                 [
@@ -138,7 +138,7 @@ async def animation_upload(bot, message):
         IN_BUTTON = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Github🤩", url="https://github.com/Devilking12"),
+                    InlineKeyboardButton("Devil XD", url="https://t.me/Assaulted_dark"),
                     InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
                 ],
                 [
@@ -173,7 +173,7 @@ async def animation_upload_groups(bot, message):
         IN_BUTTON = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Github🤩", url="https://github.com/Devilking12"),
+                    InlineKeyboardButton("Devil XD", url="https://t.me/Assaulted_dark"),
                     InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
                 ],
                 [
@@ -208,7 +208,7 @@ async def photo_upload_groups(bot, message):
         IN_BUTTON = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Github🤩", url="https://github.com/Devilking12"),
+                    InlineKeyboardButton("Devil XD", url="https://t.me/Assaulted_dark"),
                     InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
                 ],
                 [
@@ -243,7 +243,7 @@ async def video_upload_group(bot, message):
         IN_BUTTON = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Github🤩", url="https://github.com/Devilking12"),
+                    InlineKeyboardButton("Devil XD", url="https://t.me/Assaulted_dark"),
                     InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
                 ],
                 [
@@ -279,7 +279,7 @@ async def sticker_upload(bot, message):
         IN_BUTTON = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Github🤩", url="https://github.com/Devilking12"),
+                    InlineKeyboardButton("Devil XD", url="https://t.me/Assaulted_dark"),
                     InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
                 ],
                 [
@@ -314,7 +314,7 @@ async def sticker_upload_group(bot, message):
         IN_BUTTON = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Github🤩", url="https://github.com/Devilking12"),
+                    InlineKeyboardButton("Devil XD", url="https://t.me/Assaulted_dark"),
                     InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
                 ],
                 [
