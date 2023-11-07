@@ -22,7 +22,7 @@ bot = Client(
 INLINE_SELECT = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("bokachoda", url="https://t.me/Assaulted_dark"),
+            InlineKeyboardButton("Devil XD", url="https://t.me/Assaulted_dark"),
             InlineKeyboardButton("Report Bugs🤖", url="http://t.me/Devilkingassistant_bot")
         ],
         [
